@@ -1,1 +1,1 @@
-// this code I have written fron my dell system again for ovs1176S
+// this code I have written fron my dell system again for externlabs
